@@ -1,10 +1,24 @@
-# Docker Tutorial
+# README
 
-This is the application for the [*Docker Tutorial*](https://github.com/HoanKi/docker_tutorial) by [HoanKi](https://github.com/HoanKi).
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-+ About Dockerfile:
-  +  [Demo](https://github.com/HoanKi/docker_tutorial/tree/dockerfile)
+Things you may want to cover:
 
-+ About docker-compose:
+* Ruby version
 
-   + [Rails app with mysql](https://github.com/HoanKi/docker_tutorial/tree/rails_mysql).
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
